@@ -1,0 +1,14 @@
+.book {
+  border-radius: 3%;
+  background-color: #7c7c7c;
+  padding: 1rem 2rem;
+}
+.book h1 {
+  color: chocolate;
+  margin-top: 0.5 rem;
+}
+.book h4 {
+  color: #ccc;
+  font-size: 0.75rem;
+  margin-top: 0.25rem;
+}
