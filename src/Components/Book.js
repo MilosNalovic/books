@@ -1,7 +1,7 @@
 import "./Book.css";
 
-const Book = (props) => {
-  const { img, title, author } = props.book;
+const Book = ({ img, title, author }) => {
+  //   const { img, title, author } = props;
   return (
     <article className="book">
       <img src={img} alt="" />
